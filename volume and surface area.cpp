@@ -9,10 +9,8 @@ Description:Program to compute volume and surface_area
 
 int main () {
 	//variable declaration
-
-	float pie, radius ,height , volume, surface_area;
+ float pie, radius ,height , volume, surface_area;
 	
-     
     //prompt the user to enter radius
    printf("\n Enter radius: ");
     scanf("%f", &radius);
@@ -33,3 +31,4 @@ int main () {
     
     return 0;
 }
+
