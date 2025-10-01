@@ -1,3 +1,4 @@
+//simple c program
 /*
 Name:Tabitha Muthoni 
 Reg:CT100/G/26159/25
@@ -35,4 +36,5 @@ int main() {
     }
 
     return 0;
+
 }
