@@ -1,3 +1,4 @@
+//simple c program 
 /*
 Name:Tabitha Muthoni 
 Reg:CT100/G/26159/25
@@ -30,4 +31,5 @@ int main() {
     printf("Total water bill: %.2f KES\n", bill);
 
     return 0;
+
 }
