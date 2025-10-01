@@ -1,3 +1,4 @@
+//simple c program 
 /* 
 Name: Tabitha Muthoni 
 Reg No:CT100/G/26159/25
@@ -24,4 +25,5 @@ int main() {
     }
 
     return 0;
+
     }
