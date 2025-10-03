@@ -17,4 +17,5 @@ int main() {
 	printf("fundamentals of ICT\n");
 	printf("communication skills\n");
 	return 0;
+
 }
