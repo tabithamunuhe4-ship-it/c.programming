@@ -1,5 +1,5 @@
 /*
-Name:Tabitha Muthioni
+Name:Tabitha Muthoni
 Reg No:CT100/G/26159/25
 Description:program to withdraw
 using while loop
@@ -24,4 +24,5 @@ int main() {
 	printf("insufficient balance");
 	
 	return 0;
+
 }
