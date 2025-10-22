@@ -1,14 +1,14 @@
 /*
-Name:Tabitha Muthoni 
-Reg:CT100/G/26159/25
-Description:Electric bill
+Name: Tabitha Muthoni
+Reg: CT100/G/26159/25
+Description: Electric bill
 */
 
-// function to calculate electric bill
+//Function to calculate electric bill
 
 #include <stdio.h>
 
-//Function prototype
+//function prototype
 float calculateElectricBill(int units);
 
 void main()
@@ -41,6 +41,4 @@ float calculateElectricBill(int units){
     }
     
     return bill;
-
 }
-
