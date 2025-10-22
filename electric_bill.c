@@ -22,8 +22,6 @@ void main()
     result = calculateElectricBill(units);
     
     printf("The total electric bill is KSh. %.2f \n", result);
-    
-    return 0;
 }
 
 //Function declaration
