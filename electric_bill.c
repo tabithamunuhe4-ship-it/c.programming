@@ -6,7 +6,7 @@ Description:Electric bill
 
 // function to calculate electric bill
 
-#include <stdio.h
+#include <stdio.h>
 
 //Function prototype
 float calculateElectricBill(int units);
@@ -43,3 +43,4 @@ float calculateElectricBill(int units){
     return bill;
 
 }
+
