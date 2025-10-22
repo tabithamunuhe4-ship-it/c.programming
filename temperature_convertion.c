@@ -4,6 +4,8 @@ Reg No:CT100/G/26159/25
 Description:temperature convertion
 */
 
+//function to convert to celsius
+
 #include <stdio.h>
 
 //Function prototype
@@ -27,3 +29,4 @@ float convertToCelsius(float fahrenheit){
     celsius = (fahrenheit - 32) * 5.0/9.0;
     return celsius;
 }
+
