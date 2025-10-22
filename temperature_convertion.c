@@ -4,6 +4,8 @@ Reg No:CT100/G/26159/25
 Description:temperature convertion
 */
 
+#include <stdio.h>
+
 //Function prototype
 float convertToCelsius(float fahrenheit);
 
@@ -17,8 +19,6 @@ void main()
     result = convertToCelsius(fahrenheit);
     
     printf("Temperature in Celsius: %.2f \n", result);
-    
-    return 0;
 }
 
 //Function declaration
