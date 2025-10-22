@@ -8,6 +8,10 @@ Description: Electric bill
 
 #include <stdio.h>
 
+//Function to calculate electric bill
+
+#include <stdio.h>
+
 //function prototype
 float calculateElectricBill(int units);
 
